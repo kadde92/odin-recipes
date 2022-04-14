@@ -5,14 +5,39 @@
 h1 {
    color: #fefee3;
     background-color: #2b2d42;
+    font-family: "Copperplate", Papurys, fantasy;
 }
 
 h2 {
     color: #fefee3;
     background-color: #f94144;
+    font-family: "Verdana", Arial, sans-serif;
 }
 
 h3 {
     color: #fefee3;
     background-color: #f25c54;
+    font-family: "Monaco",Lucida Console, monospace;
+}
+
+img {
+    width:auto;
+    height: auto;
+}
+
+p {
+    font-style: italic;
+}
+
+li {
+    font-weight: 700;
+    color: #a9d6e5;
+}
+
+ol > li {
+    color: #38b000;
+}
+
+ol>ul>li {
+    color: #ffb600;
 }
